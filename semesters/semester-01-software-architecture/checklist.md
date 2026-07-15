@@ -1,55 +1,41 @@
-# Semester Checklist
+# Semester 1 Progress
 
 ## Module 1 — Foundations
 
-- [ ] What is Software Architecture?
-- [ ] Quality Attributes
-- [ ] Coupling vs Cohesion
-- [ ] Architectural Characteristics
+**Status:** 🟨 In Progress
+
+- [ ] Reading Complete
+- [ ] Exercises Complete
+- [ ] Reflection Complete
+- [ ] Artifacts Complete
+- [ ] Exit Criteria Met
 
 ---
 
 ## Module 2 — Architectural Thinking
 
-- [ ] Tradeoff Analysis
-- [ ] Evolutionary Design
-- [ ] Architecture vs Design
-- [ ] Technical Debt
+⬜ Not Started
 
 ---
 
-## Module 3 — Patterns
+## Module 3 — Architecture Patterns
 
-- [ ] Layered Architecture
-- [ ] Hexagonal Architecture
-- [ ] Modular Monolith
-- [ ] Event-Driven
-- [ ] Microservices
+⬜ Not Started
 
 ---
 
-## Module 4 — Documentation
+## Module 4 — Documentation & Communication
 
-- [ ] Context Diagram
-- [ ] Container Diagram
-- [ ] Component Diagram
-- [ ] Sequence Diagram
+⬜ Not Started
 
 ---
 
 ## Module 5 — Decision Making
 
-- [ ] Create ADR #1
-- [ ] Create ADR #2
-- [ ] Create ADR #3
-- [ ] Create ADR #4
-- [ ] Create ADR #5
+⬜ Not Started
 
 ---
 
-## Module 6 — Arena Simulator
+## Capstone
 
-- [ ] Review current architecture
-- [ ] Identify weaknesses
-- [ ] Refactor one subsystem
-- [ ] Document decisions
+⬜ Not Started
