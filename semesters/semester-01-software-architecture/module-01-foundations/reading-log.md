@@ -28,3 +28,17 @@ Although no direct points for architectural role as this is a solo project, ther
  * Handling 'Unknown unkowns'
  * Martin Fowler — *Who Needs an Architect?*
 
+
+## Martin Fowler - *Who Needs an Architect?*
+
+This section is a follow-up of the previous readings research.
+
+### Article Biggest Idea
+After reading through Martin's article on Architect and architecture, it showed me a couple different approaches to being an architect.  The bigest takeaway is the overall definition that it left, giving an idea that architecture is the decisions that you *wish* you had made.  Seeing this a little bit even in my current work project - we're doing a lot of design decisions and layout for the upcoming initiative that we are delivering.  Although the *architecture* of the application is mostly in place, it's us learning and adapting to it to make these major refactoring changes.
+
+### Unknown Unknowns
+One aspect from my first set of readings was the thought of handling 'unknown unknowns', and understanding 1) what they are and 2) how to deal with them.  Ironically enough, #1 was turning them into 'known unknowns'.  Now it comes down to finding the right strategy that works for me to better handle these.
+
+After doing some brainstorming and figuring out strategies, one thing that I can actively participate in even in my current career is to better document and learn from mistakes - hosting post mortums and adding these failures into my perosnal 'library' of architectural decisions.
+
+Another strategy that can apply to my own personal project is to document and fullfil my 'unknowns' as I'm working on design - both game design and system design.  This way, I can make a running list of "tickets" to work on and research as I build out my *Arena Simulator*.

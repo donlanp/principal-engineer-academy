@@ -2,19 +2,7 @@
 
 ## Exercise 1 — Arena Simulator Review
 
-Review the current Arena Simulator architecture.
-
-### Strengths
-
--
-
-### Weaknesses
-
--
-
-### Unknowns
-
--
+Arena Simulator has no current architecture.  It is a blank slate.
 
 ---
 

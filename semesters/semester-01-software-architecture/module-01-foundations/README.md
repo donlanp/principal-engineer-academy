@@ -33,7 +33,7 @@ By the end of this module I should be able to:
 ## Primary
 
 - [ ] *Fundamentals of Software Architecture*
-    - [ ] Introduction
+    - [X] Introduction
     - [ ] Chapter 1
     - [ ] Chapter 2
     - [ ] Chapter 3
@@ -41,7 +41,7 @@ By the end of this module I should be able to:
 
 ## Supplemental
 
-- [ ] Martin Fowler — *Who Needs an Architect?*
+- [X] Martin Fowler — *Who Needs an Architect?*
 - [ ] Martin Fowler — *Is Design Dead?*
 - [ ] ByteByteGo — Software Architecture Fundamentals
 
