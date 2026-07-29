@@ -1,6 +1,6 @@
 # Reading Log
 
-## Introduction (Chapter)
+## Introduction (Chapter 1)
 
 ### Biggest Idea
 ---
@@ -42,3 +42,24 @@ One aspect from my first set of readings was the thought of handling 'unknown un
 After doing some brainstorming and figuring out strategies, one thing that I can actively participate in even in my current career is to better document and learn from mistakes - hosting post mortums and adding these failures into my perosnal 'library' of architectural decisions.
 
 Another strategy that can apply to my own personal project is to document and fullfil my 'unknowns' as I'm working on design - both game design and system design.  This way, I can make a running list of "tickets" to work on and research as I build out my *Arena Simulator*.
+
+## Chapter 2 
+
+### Biggest Idea
+---
+This chapter dealt with a lot about the definition of an architect, and the skillset to be a proper one.  The main topics that were covered were the definition between an architect and a developer - and their knowledge depth vs. breadth, the necessity to know and define trade-offs in software development (in which there are _always_), and the balance of architecture and hands-on coding/POCs.
+
+The thing that struck me the most was the necessity to define the trade-offs for architecture and technology choices.  The thing that I tend to have issues with - even going from my current role to a Solutions Engineer - is the ability to better define these trade-offs and to define the possible options.  My day-to-day, I tend to do quick research and go with my gut vs. the deeper analysis that is needed for architecture.
+
+### Questions
+* In the world of GenAI, how does one maintain their coding prowess?  Even with POCs, you can generate them on the fly.
+* How can I better define myself with technology trade-offs vs. going with the 'gut' for the best solution?
+
+### Things I Disagree With
+None - I was pretty agreeable with this chapter, and it provided a number of useful insights and ideas for myself.
+
+### How does this apply to Arena Simulator?
+After defining the solid requirements and necessities for the system/game I want to make (including online multiplayer), I can take these ideas and options and lay them out to better architect the system.  Not only will this help me with what tools and frameworks I can work with, but it will also provide a checkpoint to make sure I'm building the correct things and making the proper technology choices I want to.
+
+### Follow-up Research
+N/A

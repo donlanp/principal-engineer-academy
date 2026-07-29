@@ -33,8 +33,7 @@ By the end of this module I should be able to:
 ## Primary
 
 - [ ] *Fundamentals of Software Architecture*
-    - [X] Introduction
-    - [ ] Chapter 1
+    - [X] Chapter 1
     - [ ] Chapter 2
     - [ ] Chapter 3
     - [ ] Chapter 4
