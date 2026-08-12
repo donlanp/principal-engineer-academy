@@ -63,3 +63,24 @@ After defining the solid requirements and necessities for the system/game I want
 
 ### Follow-up Research
 N/A
+
+## Chapter 3
+
+### Biggest Idea
+---
+This chapter dealt a lot with coupling and cohesion - surprisingly a lot more technical and detail oriented than I had expected for an architecture learning.  These topics were discussion points and problem solving during my undergrad times, and having a better refresher on them was helpful.
+
+Taking this into account into my professional work, I can see a benefit of keeping the balance of cohesion and coupling within my work important.  One thing I always strive for is to have clean code that is straightforward to understand (high cohesion).  With the idea of coupling definitely grows into the concept of not only at a detailed coding level, but also at an architectural/modular level.
+
+### Questions
+* We've learned that coupling can apply at the lower code and module levels, but what strategies can we go with in terms of higher level systems.  Can we better analyze the trade offs of systems depending on the level of coupling there are between modules.
+* Are there any automated tools for calculating cohesion/coupling metrics that are also free?
+
+### Things I Disagree With
+N/A
+
+### How does this apply to Arena Simulator?
+I feel this is part of a design experiment that should be done as I lay out the groundwork for the coding/implementation of this game I want to make.  By keeping things properly contained with a cohesive implementation, I can easily add in new and scaled out systems to the game itself - not only gameplay systems, but also metric/logging/telemetry features as well.
+
+### Follow-up Research
+N/A
