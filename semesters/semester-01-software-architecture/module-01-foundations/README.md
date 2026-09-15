@@ -32,11 +32,11 @@ By the end of this module I should be able to:
 
 ## Primary
 
-- [ ] *Fundamentals of Software Architecture*
+- [X] *Fundamentals of Software Architecture*
     - [X] Chapter 1
-    - [ ] Chapter 2
-    - [ ] Chapter 3
-    - [ ] Chapter 4
+    - [X] Chapter 2
+    - [X] Chapter 3
+    - [X] Chapter 4
 
 ## Supplemental
 

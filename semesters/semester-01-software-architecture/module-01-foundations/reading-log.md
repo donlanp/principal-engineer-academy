@@ -84,3 +84,25 @@ I feel this is part of a design experiment that should be done as I lay out the 
 
 ### Follow-up Research
 N/A
+
+# Reading Log
+
+## Chapter 4
+
+### Biggest Idea
+---
+This chapter focused a lot on the '-ilities' that I've had experience with during my career.  The fact that they are always persistent and reliable to fallback to during architectural decisions is a good feeling.
+
+The one thing that I really took away from this chapter is "Don't build the best architecture, but instead build the _least worst_ architecture".  This is something I think can be applied to both my personal projects and my professional ones.  One thing I seem to try to default to is a generic solution that can handle all problems when in reality I need to look at the domain, the system we're building, and the usage it really needs to drive what kind of architecture principals we can focus on.
+
+### Questions
+- What factors can we use to determine the best "-ilities"?
+- KNowing that there are always corresponding factors at play - what can we do to make sure we narrow down to the _least worst_ architecture?
+
+### Things I Disagree With
+N/A
+
+### How does this apply to Arena Simulator?
+Don't try to design and model for all scenarios.  Look at each component's true purpose and focus the architectural pros and cons to support what it needs to do the best.
+
+### Follow-up Research
